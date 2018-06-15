@@ -1,0 +1,19 @@
+body {
+    background-color: antiquewhite;
+}
+h1, p {
+    margin-bottom: 64px
+}
+p {
+    font-size: 2em
+}
+h1 {
+    color: darkmagenta; 
+    font-size: 4em
+}
+.red {
+    color: rgb(199,0,37)
+}
+.green {
+    color: #84A311;
+}
